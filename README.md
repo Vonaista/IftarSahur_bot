@@ -2,7 +2,7 @@
 [@iftarSahur_bot](https://t.me/iftarsahur_bot)
 
 ## Heroku
-[Heroku Deploy](https://heroku.com/deploy?template=https://github.com/Vonaista/IftarSahur_bot)
+[Heroku Deploy](https://heroku.com/deploy?template=https://github.com/AsmSafone/MusicPlayer)
 
 ## Kurulum
 ```bash
